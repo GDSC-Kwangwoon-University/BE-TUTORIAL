@@ -26,24 +26,23 @@
      - 아래 링크로 들어가서 으로 다운로드 받아주세요!
      -[설치 link]() 
 
-- 2단계 : 실행 
+  - 2단계 : 실행 
 
-  1. spring project download 
-     - [spring.io](https://start.spring.io/)에서 들어가서 아래와 같이 설정해주세요.
-     - <img src = "start_spring.png" width="700">
-     - 해당 화면과 같이 설정을 해주세요! 
-       - 옆에 보이는 Spring Web은 Add Dependencies를 누르고 검색한 이후 선택하면 됩니다.
-     - 이후 Generate를 눌러주세요!
-  2. 스프링 첫 실행해보기
-    - <img src="spring_play.png" width="600">
-    - 재생 버튼 눌러보기!
-    - http://localhost:8080/ 해당 url로 가보기
-
-<img src="static_index.png" width="700">
-
-
-static : index.html
-hello world!
+    1. spring project download 
+       - [spring.io](https://start.spring.io/)에서 들어가서 아래와 같이 설정해주세요.
+       - <img src = "start_spring.png" width="700">
+       - 해당 화면과 같이 설정을 해주세요! 
+         - 옆에 보이는 Spring Web은 Add Dependencies를 누르고 검색한 이후 선택하면 됩니다.
+       - 이후 Generate를 눌러주세요!
+    2. 스프링 첫 실행해보기
+        - <img src="spring_play.png" width="600">
+        - 재생 버튼 눌러보기!
+        - http://localhost:8080/ 해당 url로 가보기
+    3. resources/static/index.html
+       - 해당 경로에 아래 사진과 같이 넣기!
+       - <img src="static_index.png" width="700">
+       - 다시 http://localhost:8080/ 해당 url로 가보기
+       - 어떻게 바뀌었나요?
 
 🔎　생각해보기
 >1. java 11 왜 선택할 수 없었을까요?
