@@ -49,10 +49,10 @@
 > 2. 어떻게 아무것도 안했는데 index.html이 보일까요?
 > 3. http://localhost:8080/　에서　`:8080` 말고 다른 숫자로 바꿀 수 있는 방법이 있을까요?，　이 숫자가 어떤 의미였을까요?
 
-위의 내용에 대한 답변은 pr로 남겨주세요　
+위의 내용에 대한 답변은 issue로 남겨주세요　
 
 
-1장을 해보고 해당 이유에 대해서 알게 된 정보를 pr로 올려주세요.
+1장을 해보고 해당 이유에 대해서 알게 된 정보를 issue로 올려주세요.
 
 정말 수고하셨습니다! 
 
@@ -160,8 +160,8 @@ public record ApiResponse(String name, Integer age, AUTHORITY authority) {
 3. naver.com 에 들어갔을 때 어떤 api들이 요청되고 있을까요? (아래 사진과 같이 크롬의 개발자 탭 > 네트워크 탭 > Fetch/XHR 클릭하고 확인)
 ![img_6.png](api_find_network_tab.png)
 
-위의 내용에 대한 답변 및 질문은 pr로 남겨주세요.
-1장을 해보고 해당 이유에 대해서 알게 된 정보를 pr로 올려주세요.
+위의 내용에 대한 답변 및 질문은 issue로 남겨주세요.
+1장을 해보고 해당 이유에 대해서 알게 된 정보를 issue로 올려주세요.
 
 수고하셨습니다!
 </div>
@@ -335,8 +335,12 @@ public class DbService {
     순서대로 작성해볼까요? 
 2. MySQL을 들어보셨을텐데요. 이번에 사용한 h2 database는 뭘까요? 
 3. (선택) form 으로 제출한 후 어떻게 컨트롤러 파라미터에 바인딩이 됐을까요?
-   *힌트 : requestParam이랑 modelAttribute의 차이점은 무었일까요?
+   <br>*힌트 : requestParam이랑 modelAttribute의 차이점은 무었일까요?
 4. 지금까지 코드를 작성을 하면서 발생했던 문제점이 있었다면 작성해 봐주세요.
 
+위의 내용에 대한 답변은 issue로 남겨주세요　
+1장을 해보고 해당 이유에 대해서 알게 된 정보를 issue로 올려주세요.
+
+정말 수고하셨습니다!
 </div>
 </details>
