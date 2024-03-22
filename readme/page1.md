@@ -42,6 +42,7 @@
    - 해당 경로에 아래 사진과 같이 넣기!
 
 - <img src="./img/static_index.png" width="700">
+
    - 다시 http://localhost:8080/ 해당 url로 가보기
    - 어떻게 바뀌었나요?
 
