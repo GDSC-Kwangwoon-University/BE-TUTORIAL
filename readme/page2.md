@@ -88,6 +88,7 @@ public record ApiResponse(String name, Integer age, Authority authority) {
 }
 ```
 + 최종적인 파일 구조는 다음과 같습니다.
+  
    ![img4-2.png](./img/api_result2.png)
 
 ### 3단계 : 결과화면
