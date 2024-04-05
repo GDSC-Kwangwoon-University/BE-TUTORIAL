@@ -17,7 +17,7 @@
 설치 링크로 들어가서 다운로드 받아주세요!  
 무료버전인 Community 버전을 다운 받아 주셔야합니다!
 
-[intellij IDEA]("https://www.jetbrains.com/ko-kr/idea/download/?section=windows")
+[intellijIDEA]("https://www.jetbrains.com/ko-kr/idea/download/?section=windows")
 
 ### 실행
 
@@ -33,7 +33,7 @@
 **2. 스프링 첫 실행해보기**
 
 - 다운 받은 zip 파일을 압축을 풀고 그 파일을 intelliJ에서 열어주시면 됩니다. 
-- <img src="./img/spring_play.png" width="600">
+ <img src="./img/spring_play.png" width="600">
 - 재생 버튼 눌러보기!
 - http://localhost:8080/ 해당 url로 가보기
 
