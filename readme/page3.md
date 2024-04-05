@@ -28,7 +28,7 @@
   compileOnly 'org.projectlombok:lombok'
   annotationProcessor 'org.projectlombok:lombok'
  ```
-  - 아래 이미지처럼 오른쪽 위의 아이콘을 클릭해주세요
+  - 아래 이미지처럼 오른쪽 위의 코끼리 새로고침을 클릭해주세요
   
   ![dependency_img.png](./img/dependency_img.png)
 
