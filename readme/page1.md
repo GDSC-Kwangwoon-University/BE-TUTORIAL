@@ -9,7 +9,8 @@
 - 환경 변수 설정 방법 window : https://coding-factory.tistory.com/838
 - 환경 변수 설정 방법 mac : https://gymdev.tistory.com/72
 - 설치가 완료된 후 java -version을 cmd에 입력하면 아래와 같이 java 17버전이 깔렸다고 나와야 합니다．
-- ![img_1.png](./img/java_version.png)
+
+  ![img_1.png](./img/java_version.png)
 
 ### intellij 다운로드
 
@@ -25,11 +26,13 @@
 - [spring.io](https://start.spring.io/)에 들어가서 아래와 같이 설정해주세요.
   <img src = "./img/start_spring.png" width="700">
 - 해당 화면과 같이 설정을 해주세요!
+- 스프링부트의 버전은 ‘괄호’가 있지 않은 가장 최신의 버전을 선택해 주시면 됩니다. 
 - 옆에 보이는 Spring Web은 Add Dependencies를 누르고 검색한 이후 선택하면 됩니다.
 - 이후 Generate를 눌러주세요!
 
 **2. 스프링 첫 실행해보기**
 
+- 다운 받은 zip 파일을 압축을 풀고 그 파일을 intelliJ에서 열어주시면 됩니다. 
 - <img src="./img/spring_play.png" width="600">
 - 재생 버튼 눌러보기!
 - http://localhost:8080/ 해당 url로 가보기
@@ -37,7 +40,7 @@
 3. resources/static/index.html
    - 해당 경로에 아래 사진과 같이 넣기!
 
-- <img src="./img/static_index.png" width="700">
+<img src="./img/static_index.png" width="700">
 
    - 다시 http://localhost:8080/ 해당 url로 가보기
    - 어떻게 바뀌었나요?
