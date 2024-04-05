@@ -1,9 +1,5 @@
 # 1장
 
-## 0. 시작하기 전
-
-[start.spring.io](start.spring.io") 사이트에서 스프링 프로젝트를 바로 만들 수 있습니다.
-
 ## 1. Download
 
 ### java download
