@@ -17,7 +17,7 @@
 설치 링크로 들어가서 다운로드 받아주세요!  
 무료버전인 Community 버전을 다운 받아 주셔야합니다!
 
-[intellijIDEA]("https://www.jetbrains.com/ko-kr/idea/download/?section=windows")
+[intellij IDEA]("https://www.jetbrains.com/ko-kr/idea/download/?section=windows")
 
 ### 실행
 
