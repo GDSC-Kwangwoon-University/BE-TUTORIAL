@@ -83,7 +83,7 @@
 
 ```
 
-### 📁 controller/homeController
+### 📁 controller/HomeController
 
 ```java
 @Controller
