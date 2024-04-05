@@ -84,7 +84,7 @@ public enum Authority {
 ### ApiResponse
 
 ```java
-public record ApiResponse(String name, Integer age, AUTHORITY authority) {
+public record ApiResponse(String name, Integer age, Authority authority) {
 }
 ```
 
@@ -92,6 +92,7 @@ public record ApiResponse(String name, Integer age, AUTHORITY authority) {
 
 1. 스프링 실행하고!
 2. url 입력 : `localhost:8080/api/v1/user?username=아무개`
+   
    ![img_5.png](./img/api_result.png)
 
 ### 🔎 　생각해보기
