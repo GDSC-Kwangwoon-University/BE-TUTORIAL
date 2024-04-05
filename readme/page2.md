@@ -102,7 +102,8 @@ public record ApiResponse(String name, Integer age, AUTHORITY authority) {
 >    (아래 사진과 같이 크롬의 > 개발자 탭 > 네트워크 탭 > Fetch/XHR 클릭하고 확인)
 >    ![img_6.png](./img/api_find_network_tab.png)
 
-위의 내용에 대한 답변 및 질문은 issue로 남겨주세요.  
-1장을 해보고 해당 이유에 대해서 알게 된 정보를 issue로 올려주세요.
+위의 내용에 대한 답변 및 질문은 `issue`로 남겨주세요.  
+2장을 해보고 해당 이유에 대해서 알게 된 정보를 `issue`로 올려주세요.
+형식은 자유입니다!
 
 수고하셨습니다!
