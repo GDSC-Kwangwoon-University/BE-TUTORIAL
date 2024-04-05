@@ -26,7 +26,7 @@
 
 **1. spring project download**
 
-- [spring.io](https://start.spring.io/)에서 들어가서 아래와 같이 설정해주세요.
+- [spring.io](https://start.spring.io/)에 들어가서 아래와 같이 설정해주세요.
   <img src = "./img/start_spring.png" width="700">
 - 해당 화면과 같이 설정을 해주세요!
 - 옆에 보이는 Spring Web은 Add Dependencies를 누르고 검색한 이후 선택하면 됩니다.
@@ -52,8 +52,7 @@
 > 2. 어떻게 아무것도 안했는데 index.html이 보일까요?
 > 3. http://localhost:8080/에서　`:8080` 말고 다른 숫자로 바꿀 수 있는 방법이 있을까요?，　이 숫자가 어떤 의미였을까요?
 
-위의 내용에 대한 답변은 issue로 남겨주세요
-
-1장을 해보고 해당 이유에 대해서 알게 된 정보를 issue로 올려주세요.
+위의 내용에 대한 답변은 `issue`로 남겨주세요
+또, 1장을 해보고 해당 이유에 대해서 알게 된 정보를 `issue`로 올려주세요.
 
 정말 수고하셨습니다!
