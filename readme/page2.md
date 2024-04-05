@@ -87,12 +87,14 @@ public enum Authority {
 public record ApiResponse(String name, Integer age, Authority authority) {
 }
 ```
++ 최종적인 파일 구조는 다음과 같습니다.
+   ![img4-2.png](./img/api_result2.png)
 
 ### 3단계 : 결과화면
 
 1. 스프링 실행하고!
 2. url 입력 : `localhost:8080/api/v1/user?username=아무개`
-   
+
    ![img_5.png](./img/api_result.png)
 
 ### 🔎 　생각해보기

@@ -21,12 +21,16 @@
 ## 3단계 : database 연결 및 실습
 
 - build.gradle 파일에 의존성 추가
-  ```
-  implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
-  implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-  runtimeOnly 'com.h2database:h2'
-  compileOnly 'org.projectlombok:lombok'
-  ```
+    ```
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    runtimeOnly 'com.h2database:h2'
+    compileOnly 'org.projectlombok:lombok'
+    ```
+  - 아래 이미지처럼 오른쪽 위의 아이콘을 클릭해주세요
+  
+  ![dependency_img.png](./img/dependency_img.png)
+
 - application.properties 파일에 의존성 추가
 
   ```properties
