@@ -13,6 +13,8 @@ GDSC 타 챕터를 위한 백엔드 핸즈온입니다.
   - GDSC BE 맴버
 
 ## 🧾 목차
+각 목차마다 `생각해보기`에 대한 답변을 issue에 남겨주세요.<br>
+issue는 issue template을 참고해 주세요!
 
 [1장](./readme/page1.md)  
 [2장](./readme/page2.md)  
