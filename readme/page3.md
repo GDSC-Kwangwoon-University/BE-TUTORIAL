@@ -16,9 +16,15 @@
 
 - 이번 예제에서는 H2 데이터베이스를 사용하여 데이터베이스를 간단하게 다뤄보겠습니다.
 - 로컬환경에서 실행할 때 내장된 H2데이터베이스를 사용하여 DB에 데이터를 저장하고 테스트할 수 있습니다.
-- **이번 실습에서는 이전 장과 다르게 코드를 작성하는데 있어서 자세하게 설명해 드리지 않습니다. 여러분들이 작성해 보면서 생각해보시길 바랍니다.**
+- **이번 실습에서는 이전 장과 다르게 실습을 진행하는데 있어서 자세하게 설명해 드리지 않습니다.**
+  - 오류가 생겼을 경우 해결해보고 `issue`에 해당하는 항목에 남겨주세요!
 
 ## 3단계 : database 연결 및 실습
+
+- `intellij`의 lombok 플러그인 설치
+  - ![img.png](img/lombok.png)
+
+
 
 - build.gradle 파일에 의존성 추가
 ```
@@ -187,7 +193,7 @@ public class DbService {
 
 ## ![img_form2](./img/form_img2.png)
 
-### localhost:8080/h2-console 접속시(바로 connect 눌러주세요)
+### localhost:8080/h2-console 접속시(해당 화면처럼 설정한 후 connect 눌러주세요)
 
 ## ![img_form3](./img/form_img3.png)
 
@@ -204,6 +210,7 @@ public class DbService {
 3. (선택) form 으로 제출한 후 어떻게 컨트롤러 파라미터에 바인딩이 됐을까요?
     힌트 : requestParam이랑 modelAttribute의 차이점은 무엇일까요?
 4. 지금까지 코드를 작성을 하면서 발생했던 문제점이 있었다면 작성해 봐주세요.
+5. lombok은 어떤 친구일까요?
 ````
 
 위의 내용에 대한 답변은 `issue`로 남겨주세요
